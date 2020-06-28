@@ -1,6 +1,23 @@
 body {
   background-color: aquamarine;
 }
+div {
+  width: 60%;
+  background: black;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid red;
+  margin: 10px;
+}
 .novel {
+  border: 2px solid red;
   background: blueviolet;
+  width: 50%;
+  margin: 0 auto;
+}
+.islamic {
+  background: chartreuse;
+  border: 2px solid red;
+  width: 50%;
+  margin: 0 auto;
 }
